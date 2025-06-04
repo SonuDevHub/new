@@ -3579,7 +3579,7 @@ h6 {
     position: relative;
     z-index: 1;
     /* background-color: rgba(0, 0, 0, 0.03); */
-    padding: 150px 0 202px;
+    padding: 150px 0 180px;
   }
 
   @media (min-width: 1200px) {
@@ -6565,7 +6565,7 @@ h6 {
 --------------------------------------------------------------*/
   .tours-one {
     position: relative;
-    padding: 120px 0;
+    padding: 60px 0;
 
     @media (max-width: 767px) {
       padding: 80px 0;
